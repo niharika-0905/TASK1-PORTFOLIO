@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.hello{
+    
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+}
+
+nav{
+    display: flex;
+    width:90%;
+    padding: 20px 0px;
+    align-items:center;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+nav ul a{
+    color:maroon;
+    font-weight: bold;
+    margin-left: 3rem;
+    cursor:pointer
+}
+
+nav ul a:hover{
+    color:black;  
+}
+
+.hello skills{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.hello skills:hover + .skills {
+    display: block;
+}
+
+.hello skills:hover {
+    display: block;
+}
+
+.world{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.world h1{
+    font-size: 50px;
+    color:maroon;
+    margin-bottom: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+span{
+    color:black;
+    font-family:serif;
+}
+
+.world p{
+    color:black;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+button{
+    color:azure;
+    background-color: maroon;
+    border-radius: 10px;   
+}
+
+.images{
+    width: 40%;
+    height:60%;
+    position:absolute;
+    bottom: 10%;
+    right: 1px;
+}
+    
+.images img{
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    border: 10px solid black;   
+}
+
+.skill{
+    margin-left: 5%;
+    margin-right: 15%;
+}
+
+.sk h2{
+    font-size: 35px;
+    color:black;
+}
+
+.sk h1{
+    font-size: 50px;
+}
+
+.skimg {
+    margin-left: 15%; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+}
+
+.project{
+    margin-left:30px;
+
+}
+
+.pr h1{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+.proimg {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin-top: 180px;
+}
+
+.proimg img {
+    margin-bottom: 60px; 
+    max-width: 100%; 
+    height: auto; 
+}
+
+h1 {
+    color: maroon;
+}
+
+ul {
+    list-style-type: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0 5px;
+}
+
+.achievement{
+    margin-left: 3%;
+}
+.achievement h1{
+    font-size: 50px;
+}
+
+.contact{
+    margin-left: 5%;
+}
+
+.contact h1{
+    font-size: 50px;
+
+}
+
+input, textarea {
+    padding: 10px;
+    width: 500px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 10%;
+}
+
+button[type="submit"] {
+    width: 150px;
+    height:50px;
+    align-self: flex-start;
+    margin-left: 25%;
+}
+
+#resume {
+    margin: 50px 5%;
+}
+
+.resume h1 {
+    color: maroon;
+    font-size: 50px;
+    margin-left: 0;
+}
+
+.resume p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.resume-link {
+    text-decoration: none;
+    color: white;
+    background-color: maroon;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.resume-link:hover {
+    background-color: maroon;
+}
+
+footer{
+    color:black;
+}
