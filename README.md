@@ -15,6 +15,7 @@ Contact: A simple form for visitors to reach out to me.
 Technologies Used
 
 HTML5: Markup structure
+
 CSS3: Styling and layout
 
 Project Structure
@@ -33,18 +34,23 @@ root/
 Contact
 
 LinkedIn: https://www.linkedin.com/in/niharika-arvapally-978436281/
+
 Email: nikki.niharika0905@gmail.com
 
 Features
 
 Responsive navigation bar
+
 Project showcase with images
+
 Downloadable resume link
 
 Future Enhancements
 
 Style more using css
+
 Add JavaScript for form submission and validation.
+
 Improve responsiveness for different screen sizes.
 
 
