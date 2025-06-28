@@ -1,4 +1,4 @@
-Personal Portfolio Website
+Personal Portfolio Website.
 This is my basic personal portfolio website built with HTML and CSS. It showcases my skills, projects, achievements, and provides ways to connect with me.
 
 Overview
