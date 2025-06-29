@@ -2,7 +2,7 @@ PERSONAL PORTFOLIO WEBSITE
 
 This is my basic personal portfolio website built with HTML and CSS. It showcases my skills, projects, achievements, and provides ways to connect with me.
 
-Overview:
+Overview
 
 The portfolio includes:
 Home Section: Introduction about me and my interests.
@@ -13,14 +13,14 @@ Resume: A downloadable link to my resume.
 Contact: A simple form for visitors to reach out to me.
 
 
-Technologies Used:
+=> Technologies Used
 
 HTML5: Markup structure
 
 CSS3: Styling and layout
 
 
-Project Structure:
+=> Project Structure
 
 root/
  ├── index.html
@@ -34,14 +34,14 @@ root/
  ├── resume.pdf
 
 
-Contact:
+=> Contact
 
 LinkedIn: https://www.linkedin.com/in/niharika-arvapally-978436281/
 
 Email: nikki.niharika0905@gmail.com
 
 
-Features:
+=> Features
 
 Responsive navigation bar
 
@@ -50,7 +50,7 @@ Project showcase with images
 Downloadable resume link
 
 
-Future Enhancements:
+=> Future Enhancements
 
 Style more using css
 
